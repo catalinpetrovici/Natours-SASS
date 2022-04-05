@@ -1,10 +1,12 @@
 // COLORS
 $color-primary: #55c57a;
-$color-grey-dark: #777;
 $color-white: #fff;
 $color-black: #000;
 $color-grey-light-1: #f7f7f7;
 $color-grey-light-2: #eee;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
 
 $color-primary-light: #7ed56f;
 $color-primary-dark: #28b485;
@@ -23,3 +25,7 @@ $gutter-horizontal: 6rem;
 // FONT
 
 $default-font-size: 1.6rem;
+
+// BORDER-RADIUS
+
+$border-radius-small: 3px;
