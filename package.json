@@ -1,8 +1,9 @@
 {
-  "name": "starter",
+  "name": "project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "SASS compile|autoprefix|minimize and live-reload dev server using live-server for static HTML",
+  "main": "index.html",
+  "author": "catalinpetrovici24",
   "scripts": {
     "watch:sass": "sass --no-source-map --watch sass/main.scss css/style.css",
     "dev-server": "live-server",
@@ -16,7 +17,6 @@
     "start": "npm-run-all --parallel watch:sass dev-server"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.4",
