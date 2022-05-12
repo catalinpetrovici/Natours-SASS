@@ -1,21 +1,35 @@
-# Natours-SASS
+# Natours SASS
 
-**CSS Architecture, Components and BEM**\
-Implementing **BEM**\
+-- // --
+
+Link to project: https://natours-catalin.netlify.app/
+
+![Natours](https://user-images.githubusercontent.com/73588411/168121786-537e8588-b1d6-45e4-a4e0-42b088735031.jpg)
+
+# How It's Made:
+
+Tech used: HTML, CSS, SASS, JavaScript
+
+-- // --
+
+# Lessons Learned:
+
+ **CSS Architecture, Components and BEM**\
+ Implementing **BEM**\
 **Perspective** in CSS\
 **'backface-visibility'**\
 Background blend modes\
 **'Box-decoration-break'**\
 make text flow around shapes with **'shape-outside'** and 'float'\
 apply **filter** to images\
-use the **'<video>'** HTML element\
+use the **'< video >'** HTML tag\
 **'object-fit'** property\
 solid-color gradients\
 **::input-placeholder** pseudo-element\
 **:focus, :invalid, placeholder-shown, :checked** pseudo-classes\
 **transform-origin**
 
-**srcset** attribute on the **<img>** and **<source>** elements, together with density descriptors\
+**srcset** attribute on the **'< img >'** and **'< source >'** tags, together with density descriptors\
 **<picture>** element for art direction\
 **media queries in HTML**\
 allow the browser to decide the best image to download, using the **srcset** attribute, with descriptors and the **sizes** attribute of the **<img>** element  \
@@ -26,4 +40,7 @@ allow the browser to decide the best image to download, using the **srcset** att
 **implementing graceful degradation on selected properties**\
 **backdrop-filter**
 
-Online course ADVANCED CSS AND SASS.
+#Footage:
+
+https://user-images.githubusercontent.com/73588411/168119406-fe2fec67-388e-4acd-abd7-5121fdb2047a.mp4
+
